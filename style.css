@@ -1,0 +1,151 @@
+body{
+    background: linear-gradient(rgb(68, 202, 255), rgb(113, 141, 255), rgb(168, 86, 244), rgb(223, 50, 198), rgb(255, 40, 148), rgb(255, 59, 100), rgb(255, 102, 53));
+}
+#div1{
+    text-align: center;
+    color: rgb(255,255,255);
+    font-family: "Chewy";
+    font-size: 40px;
+}
+#div2{
+    text-align: center;
+    color: rgb(255,255,255);
+    font-family: "Chewy";
+    font-size: 30px;  
+    border: 10px solid; 
+    border-radius: 10px;
+    border-color: rgb(255,255,255);
+    background: linear-gradient(rgba(68, 202, 255), rgb(113, 141, 255), rgb(168, 86, 244,), rgb(223, 50, 198), rgb(255, 40, 148), rgb(255, 59, 100), rgb(255, 102, 53));
+    margin: auto;
+    max-width: 1000px;
+    height: 900px;
+    transition: box-shadow 1s;
+    
+}
+#p1{
+    color: rgb(255,255,255);
+    font-family: "Chewy";
+    transition: text-shadow 1s;
+}
+#p2{
+    color: rgb(255,255,255);
+    font-family: "Chewy";
+    transition: text-shadow 1s;
+}
+#p3{
+    color: rgb(255,255,255);
+    transition: text-shadow 1s;
+}
+#inputNumber{
+    font-size: 25px;
+    background-color: rgb(168, 86, 244);
+    color: white;
+    font-family: "Chewy";
+    border: 5px solid;
+    border-radius: 10px;
+    transition: box-shadow 1s;
+}
+#p4{
+    color: rgb(255,255,255);
+    font-family: "Chewy";
+    transition: text-shadow 1s;
+}
+#p5{
+    color: rgb(255,255,255);
+    font-family: "Chewy";
+    transition: text-shadow 1s;
+}
+#p6{
+    color: rgb(255,255,255);
+    font-family: "Chewy";
+    transition: text-shadow 1s;
+}
+#p7{
+    color: rgb(255,255,255);
+    font-family: "Chewy";
+    transition: text-shadow 1s;
+}
+#p8{
+    color: rgb(255,255,255);
+    font-family: "Chewy";
+    transition: text-shadow 1s;
+}
+#p9{
+    color: rgb(255,255,255);
+    font-family: "Chewy";
+    transition: text-shadow 1s;
+}
+#button1{
+    font-size: 25px;
+    background-color: rgb(255, 102, 53);
+    color: white;
+    font-family: "Chewy";
+    border-radius: 10px;
+    border: 5px solid;
+    cursor: pointer;
+    transition: box-shadow 1s;
+}
+#checkbox1{
+    transition: box-shadow 1s;
+}
+#checkbox2{
+    transition: box-shadow 1s;
+}
+#checkbox3{
+    transition: box-shadow 1s;
+}
+#checkbox4{
+    transition: box-shadow 1s;
+}
+#div2:hover{
+    box-shadow: 0px 0px 100px;
+}
+#button1:hover{
+    box-shadow: 0px 0px 50px;
+}
+#p8:hover{
+    text-shadow: 0px 0px 50px;
+}
+#inputNumber:hover{
+    box-shadow: 0px 0px 50px;
+}
+#p3:hover{
+    text-shadow: 0px 0px 50px;
+}
+#p2:hover{
+    text-shadow: 0px 0px 50px;
+}
+#p1:hover{
+    text-shadow: 0px 0px 50px;
+}
+#p4:hover{
+    text-shadow: 0px 0px 50px;
+}
+#p5:hover{
+    text-shadow: 0px 0px 50px;
+}
+#p6:hover{
+    text-shadow: 0px 0px 50px;
+}
+#p7:hover{
+    text-shadow: 0px 0px 50px;
+}
+#p9:hover{
+    text-shadow: 0px 0px 50px;
+}
+#checkbox1:hover{
+    box-shadow: 0px 0px 50px;
+}
+#checkbox2:hover{
+    box-shadow: 0px 0px 50px;
+}
+#checkbox3:hover{
+    box-shadow: 0px 0px 50px;
+}
+#checkbox4:hover{
+    box-shadow: 0px 0px 50px;
+}
+
+
+
+
