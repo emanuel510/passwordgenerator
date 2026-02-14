@@ -18,7 +18,7 @@ body{
     background: linear-gradient(rgba(68, 202, 255), rgb(113, 141, 255), rgb(168, 86, 244,), rgb(223, 50, 198), rgb(255, 40, 148), rgb(255, 59, 100), rgb(255, 102, 53));
     margin: auto;
     max-width: 1000px;
-    height: 1000px;
+    height: 700px;
     transition: box-shadow 1s;
     
 }
